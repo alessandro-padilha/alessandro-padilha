@@ -1,4 +1,4 @@
-# Alessandro — Engenharia de Computação | Dados & Tecnologia
+ Alessandro — Engenharia de Computação | Dados & Tecnologia
 
 Olá! Sou estudante de **Engenharia de Computação** e estou construindo minha carreira na área de Tecnologia, com interesse especial em **Dados, Analytics e automação**.
 
